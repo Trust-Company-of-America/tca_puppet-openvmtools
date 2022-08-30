@@ -3,15 +3,15 @@
   "dependencies": [
     {
       "name": "puppet/epel",
-      "version_requirement": ">=3.0.0 <4.0.0"
+      "version_requirement": ">=3.0.0"
     },
     {
       "name": "puppetlabs/stdlib",
-      "version_requirement": ">= 2.3.0 < 9.0.0"
+      "version_requirement": ">= 2.3.0"
     },
     {
       "name": "puppetlabs/yumrepo_core",
-      "version_requirement": ">=1.0.0 <2.0.0"
+      "version_requirement": ">=1.0.0"
     }
   ],
   "issues_url": "https://github.com/voxpupuli/puppet-openvmtools/issues",
@@ -103,14 +103,14 @@
       ]
     }
   ],
-  "project_page": "https://github.com/voxpupuli/puppet-openvmtools",
+  "project_page": "https://github.com/Trust-Company-of-America/tca_puppet_openvmtools",
   "requirements": [
     {
       "name": "puppet",
-      "version_requirement": ">= 6.1.0 < 8.0.0"
+      "version_requirement": ">= 6.1.0"
     }
   ],
-  "source": "https://github.com/voxpupuli/puppet-openvmtools.git",
+  "source": "https://github.com/Trust-Company-of-America/tca_puppet_openvmtools.git",
   "summary": "Install Open Virtual Machine Tools packages on VMware guests.",
   "tags": [
     "open-vm-tools",
@@ -120,5 +120,5 @@
     "vmware-tools",
     "vmware_tools"
   ],
-  "version": "3.0.1-rc0"
+  "version": "3.0.2"
 }
